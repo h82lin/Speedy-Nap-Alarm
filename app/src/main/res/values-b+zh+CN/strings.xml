@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">瞌睡闹钟</string>
+    <string name="hour">&#160;&#160;小时</string>
+    <string name="minute">&#160;&#160;&#160;分钟</string>
+    <string name="main_minute">分钟&#160;&#160;&#160;&#160;</string>
+    <string name="minutes">分钟</string>
+    <string name="snooze_minute">分钟</string>
+    <string name="five_min">5&#160;分钟</string>
+    <string name="time">00:00</string>
+    <string name="ringtone_txt">铃声</string>
+    <string name="snooze_txt">小睡</string>
+    <string name="repeat_txt">重复</string>
+    <string name="vibrate_txt">震动</string>
+    <string name="save">储存</string>
+    <string name="no_alarm">无储存设定</string>
+    <string name="no_ringtone">无</string>
+    <string name="ok_btn">确定</string>
+    <string name="cancel_btn">取消</string>
+    <string name="select_duration">请选择闹钟时数！</string>
+    <string name="min">分钟</string>
+    <string name="hr">小时</string>
+    <string name="start_alarm">设定闹钟!</string>
+    <string name="alarm_duration">储存时间:</string>
+    <string name="alarm_set_to">已将闹钟设定至:</string>
+    <string name="cancel_alarm">取消闹钟</string>
+    <string name="dismiss">终止</string>
+
+    <string name="next">下一页</string>
+    <string name="skip">跳过</string>
+    <string name="start">知道了！</string>
+    <string name="welcome">欢迎来到瞌睡闹钟!</string>
+    <string name="slide_desc">在您快睡着时使您在通知栏上快速设定闹钟!</string>
+    <string name="slide_1_desc">按下时间字样就能选择闹钟时间!</string>
+    <string name="slide_2_desc">按下\"储存\"按钮就能事先储存闹钟设定</string>
+    <string name="slide_3_desc">拉下通知栏即可看到一则瞌睡闹钟通知。在通知下方随时按下\"设定闹钟!\"按钮即可设定闹钟。</string>
+    <string name="slide_4_desc">\"设定闹钟!\"按钮也可以在行动装置尚未解锁前使用。只需按住瞌睡闹钟通知并往下拉，按钮就会出现。</string>
+    <string name="slide_5_desc">需取消闹钟时，按下通知里的\"取消按钮\"！</string>
+</resources>

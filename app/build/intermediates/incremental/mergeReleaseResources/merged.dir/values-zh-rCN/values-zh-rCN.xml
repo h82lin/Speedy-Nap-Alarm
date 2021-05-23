@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="alarm_duration">储存时间:</string>
+    <string name="alarm_set_to">已将闹钟设定至:</string>
+    <string name="app_name">瞌睡闹钟</string>
+    <string name="cancel_alarm">取消闹钟</string>
+    <string name="cancel_btn">取消</string>
+    <string name="dismiss">终止</string>
+    <string name="five_min">5 分钟</string>
+    <string name="hour">  小时</string>
+    <string name="hr">小时</string>
+    <string name="main_minute">分钟    </string>
+    <string name="min">分钟</string>
+    <string name="minute">   分钟</string>
+    <string name="minutes">分钟</string>
+    <string name="next">下一页</string>
+    <string name="no_alarm">无储存设定</string>
+    <string name="no_ringtone">无</string>
+    <string name="ok_btn">确定</string>
+    <string name="repeat_txt">重复</string>
+    <string name="ringtone_txt">铃声</string>
+    <string name="save">储存</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="select_duration">请选择闹钟时数！</string>
+    <string name="skip">跳过</string>
+    <string name="slide_1_desc">按下时间字样就能选择闹钟时间!</string>
+    <string name="slide_2_desc">按下\"储存\"按钮就能事先储存闹钟设定</string>
+    <string name="slide_3_desc">拉下通知栏即可看到一则瞌睡闹钟通知。在通知下方随时按下\"设定闹钟!\"按钮即可设定闹钟。</string>
+    <string name="slide_4_desc">\"设定闹钟!\"按钮也可以在行动装置尚未解锁前使用。只需按住瞌睡闹钟通知并往下拉，按钮就会出现。</string>
+    <string name="slide_5_desc">需取消闹钟时，按下通知里的\"取消按钮\"！</string>
+    <string name="slide_desc">在您快睡着时使您在通知栏上快速设定闹钟!</string>
+    <string name="snooze_minute">分钟</string>
+    <string name="snooze_txt">小睡</string>
+    <string name="start">知道了！</string>
+    <string name="start_alarm">设定闹钟!</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="time">00:00</string>
+    <string name="vibrate_txt">震动</string>
+    <string name="welcome">欢迎来到瞌睡闹钟!</string>
+</resources>

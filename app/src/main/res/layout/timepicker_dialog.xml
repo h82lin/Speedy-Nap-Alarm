@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <NumberPicker
+        android:id="@+id/hourPicker"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/minutePicker"
+        android:layout_alignBottom="@+id/minutePicker"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="17dp"
+        android:theme="@style/NumberPickerText" />
+
+    <NumberPicker
+        android:id="@+id/minutePicker"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="55dp"
+        android:layout_toEndOf="@+id/hourPicker"
+        android:theme="@style/NumberPickerText" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView4"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignStart="@+id/hourPicker"
+        android:layout_marginStart="17dp"
+        android:text="@string/hour"
+        android:textColor="?attr/colorControlActivated"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/minutePicker"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/minute"
+        android:textColor="?attr/colorControlActivated"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <Space
+        android:layout_width="17dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/minutePicker"
+        android:layout_toEndOf="@+id/minutePicker" />
+
+</RelativeLayout>

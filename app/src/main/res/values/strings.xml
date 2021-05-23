@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">Speedy Nap Alarm</string>
+    <string name="hour">HOUR</string>
+    <string name="minute">MINUTE</string>
+    <string name="main_minute">MINUTE</string>
+    <string name="snooze_minute">MINUTE</string>
+    <string name="minutes"> Minutes</string>
+    <string name="time">00:00</string>
+    <string name="ringtone_txt">Ringtone</string>
+    <string name="snooze_txt">Snooze</string>
+    <string name="repeat_txt">Repeat</string>
+    <string name="vibrate_txt">Vibrate</string>
+    <string name="save">Save</string>
+    <string name="no_alarm">No Alarm Settings</string>
+    <string name="no_ringtone">None</string>
+    <string name="ok_btn">OK</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="select_duration">Please select alarm duration!</string>
+    <string name="min"> min</string>
+    <string name="hr"> hr</string>
+    <string name="start_alarm">Start Alarm</string>
+    <string name="alarm_duration">Saved Duration:</string>
+    <string name="alarm_set_to">Alarm set to: </string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="zeroMin">0 Minutes</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="welcome">Welcome to Speedy Nap Alarm!</string>
+    <string name="slide_desc">Set alarms from the notification bar, perfect for setting alarms in urgent situations!</string>
+    <string name="slide_1_desc">Press the \"time\" view to select an alarm duration!</string>
+    <string name="slide_2_desc">Press \"SAVE\" to save an alarm setting.</string>
+    <string name="slide_3_desc">Press the \"START ALARM\" button under the Speedy Nap Alarm notification to start an alarm!</string>
+    <string name="slide_4_desc">The \"START ALARM\" button even works when your device is locked! When your device is locked, PULL DOWN on the notification for it to expand and show the button.</string>
+    <string name="slide_5_desc">Press the \"CANCEL ALARM\" button in the notification to cancel an alarm</string>
+
+
+
+</resources>
+

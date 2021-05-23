@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\small_icon.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\src\\main\\res\\drawable-xxhdpi-v11\\small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\cancel_alarm.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\src\\main\\res\\drawable-xxhdpi-v11\\cancel_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\start_alarm.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\notification\\app\\src\\main\\res\\drawable-xxhdpi-v11\\start_alarm.png"
+    }
+]
